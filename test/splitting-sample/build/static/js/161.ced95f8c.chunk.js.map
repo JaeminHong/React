@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/161.ced95f8c.chunk.js","mappings":"4IAIA,UAJgB,WACf,OAAO","sources":["SplitMe.js"],"sourcesContent":["const SplitMe = () => {\r\n\treturn <div>SplitMe</div>\r\n};\r\n\r\nexport default SplitMe;"],"names":[],"sourceRoot":""}

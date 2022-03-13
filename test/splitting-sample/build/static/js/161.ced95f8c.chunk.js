@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksplitting_sample=self.webpackChunksplitting_sample||[]).push([[161],{161:function(e,t,i){i.r(t);var n=i(184);t.default=function(){return(0,n.jsx)("div",{children:"SplitMe"})}}}]);
+//# sourceMappingURL=161.ced95f8c.chunk.js.map
